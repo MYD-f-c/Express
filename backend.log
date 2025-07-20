@@ -1,0 +1,26 @@
+
+> sansligun-backend@1.0.0 start
+> node server.js
+
+Server running on port 8000
+Connected to MongoDB
+GET /api/lottery/winners - 2025-07-19T17:41:36.784Z
+GET /api/lottery/stats - 2025-07-19T17:41:36.984Z
+POST /api/auth/login - 2025-07-19T17:42:00.619Z
+GET /api/lottery/winners - 2025-07-19T17:44:05.443Z
+GET /api/lottery/stats - 2025-07-19T17:44:05.631Z
+POST /api/auth/login - 2025-07-19T17:44:26.292Z
+GET /api/lottery/winners - 2025-07-19T17:45:32.800Z
+GET /api/lottery/stats - 2025-07-19T17:45:32.978Z
+POST /api/auth/login - 2025-07-19T17:45:48.904Z
+GET /api/admin/stats - 2025-07-19T17:45:50.972Z
+GET /api/admin/stats - 2025-07-19T17:46:31.670Z
+GET /api/lottery/winners - 2025-07-19T17:46:59.215Z
+GET /api/lottery/stats - 2025-07-19T17:46:59.393Z
+POST /api/auth/login - 2025-07-19T17:47:18.706Z
+GET /api/admin/stats - 2025-07-19T17:47:20.518Z
+GET /api/admin/users - 2025-07-19T17:47:29.535Z
+DELETE /api/admin/users/687bce421b9c25237bce3c3e - 2025-07-19T17:47:40.299Z
+GET /api/admin/users - 2025-07-19T17:47:40.745Z
+GET /api/admin/users - 2025-07-19T17:53:16.879Z
+GET /api/admin/users - 2025-07-19T17:53:25.187Z
